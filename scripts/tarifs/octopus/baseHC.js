@@ -23,10 +23,10 @@ abonnements.push({
         },
         {
             puissance: 12,
-            abonnement: 20.13,
+            abonnement: 20.96,
             bleu: {
-                prixKwhHP: 23.33,
-                prixKwhHC: 17.95
+                prixKwhHP: 20.14,
+                prixKwhHC: 15.58
             }
         },
         {
